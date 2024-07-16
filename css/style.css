@@ -1,0 +1,32 @@
+/*// <uniquifier>: Use a unique and descriptive class name*/
+/*// <weight>: Use a value from 200 to 1000*/
+
+.mulish-shigure {
+  font-family: "Mulish", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: normal;
+}
+
+nav {
+  display: flex;
+  align-items: right;
+  justify-content: flex-end;
+  font-family: "Mulish", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: italic;
+  background-color: #f1f1f1;
+  margin-bottom:20px;
+}
+
+nav > button {
+  padding-right: 0.5em;
+  border:none;
+  font-size: 1.5em;
+}
+
+#cover > img {
+  width: 100%;
+
+}
